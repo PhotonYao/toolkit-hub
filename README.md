@@ -2,7 +2,7 @@
 
 > 一个集合多种实用功能的在线工具站点，帮助用户快速完成常用操作。
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![GitHub branch status](https://img.shields.io/github/checks-status/PhotonYao/toolkit-hub/main)
 ![License](https://img.shields.io/github/license/PhotonYao/toolkit-hub)
 
 ## 📌 项目简介
